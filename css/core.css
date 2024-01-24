@@ -5055,7 +5055,7 @@ button[disabled],[type=submit][disabled],[type=button][disabled],button[disabled
 }
 
 .button.button--add:hover {
-    background-color: #006abb
+    background-color: #4d9221
 }
 
 .button.button--add[disabled],.button.button--add[disabled]:hover {
@@ -5066,9 +5066,9 @@ button[disabled],[type=submit][disabled],[type=button][disabled],button[disabled
 
 .button.button--ghost {
     background-color: transparent;
-    border: 1px solid #0078d4;
+    border: 1px solid rgba(77,146,33,0.5) ;
     border-radius: 4px;
-    color: #0062ad;
+    color: #4d9221;
     display: inline-block;
     font-size: 14px;
     font-weight: 600;
@@ -5078,7 +5078,7 @@ button[disabled],[type=submit][disabled],[type=button][disabled],button[disabled
 }
 
 .button.button--ghost:hover {
-    background-color: #0078d4;
+    background-color: #4d9221;
     color: #fff
 }
 
@@ -5087,7 +5087,7 @@ button[disabled],[type=submit][disabled],[type=button][disabled],button[disabled
 }
 
 .button.button--ghost:focus {
-    background-color: #0078d4;
+    background-color: #4d9221;
     color: #fff;
     outline: 1px solid #fff;
     outline-offset: -4px
@@ -5098,7 +5098,7 @@ button[disabled],[type=submit][disabled],[type=button][disabled],button[disabled
 }
 
 .button.button--ghost svg {
-    fill: #0062ad
+    fill: #4d9221
 }
 
 .button.button--ghost[disabled],.button.button--ghost[disabled]:focus,.button.button--ghost[disabled]:hover {
@@ -5113,226 +5113,6 @@ button[disabled],[type=submit][disabled],[type=button][disabled],button[disabled
     }
 }
 
-.section--color00 .button.button--ghost {
-    border: 1px solid #fff;
-    color: #fff
-}
-
-.section--color00 .button.button--ghost svg {
-    fill: #fff
-}
-
-.section--color00 .button.button--ghost:hover {
-    background-color: #0078d4
-}
-
-.section--color00 .button.button--ghost:hover svg {
-    fill: #0078d4
-}
-
-.section--color03 .button.button--ghost {
-    border: 1px solid #fff;
-    color: #fff
-}
-
-.section--color03 .button.button--ghost svg {
-    fill: #fff
-}
-
-.section--color03 .button.button--ghost:hover {
-    background-color: #0078d4
-}
-
-.section--color03 .button.button--ghost:hover svg {
-    fill: #0078d4
-}
-
-.section--color04 .button.button--ghost {
-    border: 1px solid #fff;
-    color: #fff
-}
-
-.section--color04 .button.button--ghost svg {
-    fill: #fff
-}
-
-.section--color04 .button.button--ghost:hover {
-    background-color: #0078d4
-}
-
-.section--color04 .button.button--ghost:hover svg {
-    fill: #0078d4
-}
-
-.section--color05 .button.button--ghost {
-    border: 1px solid #fff;
-    color: #fff
-}
-
-.section--color05 .button.button--ghost svg {
-    fill: #fff
-}
-
-.section--color05 .button.button--ghost:hover {
-    background-color: #0078d4
-}
-
-.section--color05 .button.button--ghost:hover svg {
-    fill: #0078d4
-}
-
-.section--color06 .button.button--ghost {
-    border: 1px solid #fff;
-    color: #fff
-}
-
-.section--color06 .button.button--ghost svg {
-    fill: #fff
-}
-
-.section--color06 .button.button--ghost:hover {
-    background-color: #0078d4
-}
-
-.section--color06 .button.button--ghost:hover svg {
-    fill: #0078d4
-}
-
-.section--color07 .button.button--ghost {
-    border: 1px solid #fff;
-    color: #fff
-}
-
-.section--color07 .button.button--ghost svg {
-    fill: #fff
-}
-
-.section--color07 .button.button--ghost:hover {
-    background-color: #0078d4
-}
-
-.section--color07 .button.button--ghost:hover svg {
-    fill: #0078d4
-}
-
-.section--color08 .button.button--ghost {
-    border: 1px solid #fff;
-    color: #fff
-}
-
-.section--color08 .button.button--ghost svg {
-    fill: #fff
-}
-
-.section--color08 .button.button--ghost:hover {
-    background-color: #0078d4
-}
-
-.section--color08 .button.button--ghost:hover svg {
-    fill: #0078d4
-}
-
-.section--color09 .button.button--ghost {
-    border: 1px solid #fff;
-    color: #fff
-}
-
-.section--color09 .button.button--ghost svg {
-    fill: #fff
-}
-
-.section--color09 .button.button--ghost:hover {
-    background-color: #0078d4
-}
-
-.section--color09 .button.button--ghost:hover svg {
-    fill: #0078d4
-}
-
-.section--gray60 .button.button--ghost {
-    border: 1px solid #fff;
-    color: #fff
-}
-
-.section--gray60 .button.button--ghost svg {
-    fill: #fff
-}
-
-.section--gray60 .button.button--ghost:hover {
-    background-color: #0078d4
-}
-
-.section--gray60 .button.button--ghost:hover svg {
-    fill: #0078d4
-}
-
-.section--gray70 .button.button--ghost {
-    border: 1px solid #fff;
-    color: #fff
-}
-
-.section--gray70 .button.button--ghost svg {
-    fill: #fff
-}
-
-.section--gray70 .button.button--ghost:hover {
-    background-color: #0078d4
-}
-
-.section--gray70 .button.button--ghost:hover svg {
-    fill: #0078d4
-}
-
-.section--gray80 .button.button--ghost {
-    border: 1px solid #fff;
-    color: #fff
-}
-
-.section--gray80 .button.button--ghost svg {
-    fill: #fff
-}
-
-.section--gray80 .button.button--ghost:hover {
-    background-color: #0078d4
-}
-
-.section--gray80 .button.button--ghost:hover svg {
-    fill: #0078d4
-}
-
-.section--gray90 .button.button--ghost {
-    border: 1px solid #fff;
-    color: #fff
-}
-
-.section--gray90 .button.button--ghost svg {
-    fill: #fff
-}
-
-.section--gray90 .button.button--ghost:hover {
-    background-color: #0078d4
-}
-
-.section--gray90 .button.button--ghost:hover svg {
-    fill: #0078d4
-}
-
-.section--gray100 .button.button--ghost {
-    border: 1px solid #fff;
-    color: #fff
-}
-
-.section--gray100 .button.button--ghost svg {
-    fill: #fff
-}
-
-.section--gray100 .button.button--ghost:hover {
-    background-color: #0078d4
-}
-
-.section--gray100 .button.button--ghost:hover svg {
-    fill: #0078d4
-}
 
 .button.button--icon:after {
     display: none!important
